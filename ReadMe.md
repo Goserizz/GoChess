@@ -4,8 +4,13 @@
 
 > qmake: greaterThan(QT_MAJOR_VERSION, 4)
 
-### **build**:
+### **Build**:
 
 > qmake -makefile GoChess.pro
 >
 > make
+
+### ToDo:
+
+- Connection to Yehu Weiqi
+- Situation judgement
