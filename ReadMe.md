@@ -10,7 +10,7 @@
 >
 > make
 
-### ToDo:
+### Todo:
 
 - Connection to Yehu Weiqi
 - Situation judgement
